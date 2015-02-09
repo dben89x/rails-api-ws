@@ -8,6 +8,13 @@ This forum has forums, topics, messages and users, and the relate like so:
 * Topics have many messages
 * Messages belong to users
 
+## Setup
+
+* Clone
+* Run `bin/setup`
+* `rails s`
+* Open Postman
+
 ## Goal
 
 You need to serve all the data that each page needs, no more, no less, in one request.
